@@ -1,0 +1,11 @@
+i{
+    margin-right: 10px;
+}
+.borde{
+    border: 1px solid rgba(206,212,218,255);
+    padding: 10px;
+}
+li{
+    display: inline-flex;
+    justify-content: space-between;
+}
